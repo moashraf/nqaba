@@ -31,7 +31,8 @@ class CreateMembersTable extends Migration
             $table->string('elec_branch')->nullable();
             $table->string('graduate')->nullable();
             $table->string('pic')->nullable();
-            $table->string('members_Type')->nullable();
+            $table->string('username')->nullable();
+            $table->string('type')->nullable();
             $table->timestamps();
         });
     }

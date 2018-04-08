@@ -11,6 +11,50 @@ use Illuminate\Support\Facades\Validator;
 
 class MessagesController extends Controller
 {
+
+
+   
+  public function read_member_dmessages(Request $request){
+
+    $validator = Validator::make($request->all(), [
+            'email' => 'required' 
+        ]);
+
+        if ($validator->fails()){
+            return response()->json([
+                'status' => false,
+                'message' => 'Error , Missing inputs...'
+            ],200);
+        }
+                     $email = $request->input('email');
+                    $Member = Member::where('email','=',$email)->first();
+
+                    $messages=Message::where('members_id','=',$Member->id)->get();
+  if (count($messages) > 0){
+               return response()->json([
+                   'status' => true,
+                   'message' => 'messages listed ..',
+                   'messages' => $messages
+               ]);
+              
+           }
+
+           else{ // if no api header
+         return response()->json([
+                   'status' => false,
+                   'message' => 'no messages for this user ..'
+               ]);
+       }
+
+
+
+
+  }
+
+
+
+
+
     public function createMessages(Request $request){
 
         $validator = Validator::make($request->all(), [
@@ -105,11 +149,17 @@ class MessagesController extends Controller
                    'message' => 'messages listed ..',
                    'messages' => $messages
                ]);
-               return response()->json([
+              
+           }
+
+           else{ // if no api header
+         return response()->json([
                    'status' => false,
                    'message' => 'no messages for this user ..'
                ]);
-           }
+       }
+
+
        }else{ // if no api header
            return response()->json([
                'status' => false,

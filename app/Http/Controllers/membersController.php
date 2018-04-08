@@ -72,6 +72,7 @@ class membersController extends Controller
             'dep' => $request->input('dep'),
             'job' => $request->input('job'),
             'nat_id' => $request->input('nat_id'),
+            'Type' => $request->input('Type'),
             'mobile' => $request->input('mobile'),
             'gender' => $request->input('gender'),
             'gov' => $request->input('gov'),

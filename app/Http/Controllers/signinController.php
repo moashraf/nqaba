@@ -48,6 +48,7 @@ class signinController extends Controller
             return response()->json([
                 'status' => true,
                 'message' => 'تم تسجبل الدخول بنجاح ..',
+                'Type' => $user->Type,
                 'user' => $user
             ],200);
         }else{

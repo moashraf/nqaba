@@ -7,6 +7,7 @@ use App\Image;
 use App\Member;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
+use Illuminate\Support\Facades\Hash;
 
 class Visitor extends Controller
 {
@@ -28,8 +29,8 @@ class Visitor extends Controller
         if ($validator->fails()){
             return response()->json([
                 'status' => false,
-'message' => 'برجاء ادخال  البيانات كالمه   ...'
-],200);
+        'message' => 'برجاء ادخال  البيانات كالمه   ...'
+        ],200);
         }
         
         $email = $request->input('email');
@@ -60,7 +61,7 @@ class Visitor extends Controller
             'api_header' =>  'mem'.str_random(40),
             'regToken' => $request->input('regToken'),
             'email' => $request->input('email'),
-            'members_Type' => 'Visitor',
+            'Type' => 'Visitor' ,
             
 
             //'graduate' => Helpers::dateParser($request->input('graduate')),
@@ -92,7 +93,36 @@ class Visitor extends Controller
     
     
     
-    
+      public function forget(Request $request){
+
+$user = Member::where('email', $request->input('email')) ->first();
+
+        if (!is_null($user))
+        {
+            $activate = (rand(1000, 3000));
+            $to = "$user->email";
+            $subject = "nqaba email";
+            $message = Helpers::mail_code($activate, $user->email);
+            // Always set content-type when sending HTML email
+            $headers = "MIME-Version: 1.0" . "\r\n";
+            $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
+            // More headers
+            $headers .= 'From: <info@nqaba.com>' . "\r\n";
+           // mail($to, $subject, $message, $headers);
+            $user->activate = $activate;
+            $user->save();
+
+            return Helpers::returnJsonResponse(true, '     successfully  send ...', $user);
+        }
+        else
+        {
+            return Helpers::returnJsonResponse(false, ' code  not send ...', null);
+        }
+
+
+
+
+      }
     public function login(Request $request){
 
         $validator = Validator::make($request->all(), [
@@ -127,9 +157,8 @@ if($request->input('email')){
 
 
 
-if($request->input('username')){
-    
-    
+elseif ($request->input('username')){
+     
          $user = Member::where('username','=', $username)->first();
            if (! $user){
             return response()->json([
@@ -147,6 +176,7 @@ if($request->input('username')){
 
 
         // check if password true
+  
         if(Hash::check($password, $user->password)){
             return response()->json([
                 'status' => true,

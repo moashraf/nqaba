@@ -146,8 +146,8 @@ Route::post('/new-payments','newMemPayments@getNewMemPayment');
 //================  Messages Routes  ====================
 
 Route::post('/create-message','MessagesController@createMessages');
-
 Route::post('/read-messages','MessagesController@readMessages');
+Route::post('/message','MessagesController@read_member_dmessages');
 
 //================  Password Reset Routes  ====================
 
@@ -157,5 +157,6 @@ Route::post('/password-reset','passwordResetController@passwordReset');
  
 Route::post('/registerVisitor','Visitor@register');
 Route::post('/loginVisitor','Visitor@login');
+Route::post('/forgetViistor','Visitor@forget');
 
 

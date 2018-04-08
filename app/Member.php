@@ -8,7 +8,7 @@ class Member extends Model
 {
 
     protected $fillable = [
-        'name','email', 'password', 'fcode', 'reg_token', 'api_header', 'job', 'dep', 'nat_id', 'mobile', 'gender', 'gov', 'branch', 'elec_branch', 'graduate', 'pic', 'members_Type'
+        'name','email', 'password', 'fcode', 'reg_token', 'api_header', 'job', 'dep', 'nat_id', 'mobile', 'gender', 'gov', 'branch', 'elec_branch', 'graduate', 'pic', 'Type' ,'username'
     ];
 
     protected $hidden = ['password'];
