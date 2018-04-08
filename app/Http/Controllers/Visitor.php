@@ -28,13 +28,15 @@ class Visitor extends Controller
         ]);
         if ($validator->fails()){
             return response()->json([
-                'status' => false,
+         'status' => false,
         'message' => 'برجاء ادخال  البيانات كالمه   ...'
         ],200);
         }
         
+
         $email = $request->input('email');
-        $checkEmail = Member::where('email' , '=', $email)->first();
+
+       $checkEmail = Member::where('email' , '=', $email)->first();
         if(! $checkEmail){
             if($request->file('pic')){
             $file = $request->file('pic');
