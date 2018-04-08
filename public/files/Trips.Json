@@ -1,0 +1,586 @@
+[{
+    "TRIPNAME": "عمرة شعبان - طيران سياحى"
+    , "ID": 16
+    , "F_CODE": 3
+    , "F_NAME": "سياحى ثنائى 2/5"
+    , "TRIP_FROM": "\/Date(1493676000000)\/"
+    , "TRIP_TO": "\/Date(1494453600000)\/"
+    , "M_COST": 12100
+    , "F_COST": 12100
+    , "K_COST": 4000
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1492207200000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "عمرة شعبان - طيران سياحى"
+    , "ID": 17
+    , "F_CODE": 3
+    , "F_NAME": "سياحى ثنائى 7/5"
+    , "TRIP_FROM": "\/Date(1494108000000)\/"
+    , "TRIP_TO": "\/Date(1494885600000)\/"
+    , "M_COST": 12100
+    , "F_COST": 12100
+    , "K_COST": 4000
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1492639200000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "عمرة شعبان - طيران سياحى"
+    , "ID": 18
+    , "F_CODE": 3
+    , "F_NAME": "سياحى ثنائى 10/5"
+    , "TRIP_FROM": "\/Date(1494367200000)\/"
+    , "TRIP_TO": "\/Date(1495144800000)\/"
+    , "M_COST": 12100
+    , "F_COST": 12100
+    , "K_COST": 4000
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1493071200000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "عمرة شعبان - طيران سياحى"
+    , "ID": 19
+    , "F_CODE": 3
+    , "F_NAME": "سياحى ثلاثى 2/5"
+    , "TRIP_FROM": "\/Date(1493676000000)\/"
+    , "TRIP_TO": "\/Date(1494453600000)\/"
+    , "M_COST": 10500
+    , "F_COST": 10500
+    , "K_COST": 4000
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1492207200000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "عمرة شعبان - طيران سياحى"
+    , "ID": 20
+    , "F_CODE": 3
+    , "F_NAME": "سياحى ثلاثى 7/5"
+    , "TRIP_FROM": "\/Date(1494108000000)\/"
+    , "TRIP_TO": "\/Date(1494885600000)\/"
+    , "M_COST": 10500
+    , "F_COST": 10500
+    , "K_COST": 4000
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1492639200000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "عمرة شعبان - طيران سياحى"
+    , "ID": 21
+    , "F_CODE": 3
+    , "F_NAME": "سياحى ثلاثى 10/5"
+    , "TRIP_FROM": "\/Date(1494367200000)\/"
+    , "TRIP_TO": "\/Date(1495144800000)\/"
+    , "M_COST": 10500
+    , "F_COST": 10500
+    , "K_COST": 4000
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1493071200000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "عمرة شعبان - طيران سياحى"
+    , "ID": 22
+    , "F_CODE": 3
+    , "F_NAME": "سياحى رباعى 7/5"
+    , "TRIP_FROM": "\/Date(1494108000000)\/"
+    , "TRIP_TO": "\/Date(1494885600000)\/"
+    , "M_COST": 9700
+    , "F_COST": 9700
+    , "K_COST": 4000
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1492639200000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "عمرة شعبان - طيران سياحى"
+    , "ID": 23
+    , "F_CODE": 3
+    , "F_NAME": "سياحى رباعى 2/5"
+    , "TRIP_FROM": "\/Date(1493676000000)\/"
+    , "TRIP_TO": "\/Date(1494453600000)\/"
+    , "M_COST": 9700
+    , "F_COST": 9700
+    , "K_COST": 4000
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1492207200000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "عمرة شعبان - طيران سياحى"
+    , "ID": 24
+    , "F_CODE": 3
+    , "F_NAME": "سياحى رباعى 10/5"
+    , "TRIP_FROM": "\/Date(1494367200000)\/"
+    , "TRIP_TO": "\/Date(1495144800000)\/"
+    , "M_COST": 9700
+    , "F_COST": 9700
+    , "K_COST": 4000
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1493071200000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "رحلة شم النسيم - الغردقة"
+    , "ID": 28
+    , "F_CODE": 4
+    , "F_NAME": "5 نجوم - فردى"
+    , "TRIP_FROM": "\/Date(1492120800000)\/"
+    , "TRIP_TO": "\/Date(1492466400000)\/"
+    , "M_COST": 1670
+    , "F_COST": 1670
+    , "K_COST": 835
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1491948000000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "رحلة شم النسيم - الغردقة"
+    , "ID": 29
+    , "F_CODE": 4
+    , "F_NAME": "5 نجوم - ثنائى"
+    , "TRIP_FROM": "\/Date(1492120800000)\/"
+    , "TRIP_TO": "\/Date(1492466400000)\/"
+    , "M_COST": 1220
+    , "F_COST": 1220
+    , "K_COST": 610
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1491948000000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "رحلة شم النسيم - الغردقة"
+    , "ID": 30
+    , "F_CODE": 4
+    , "F_NAME": "5 نجوم - ثلاثى"
+    , "TRIP_FROM": "\/Date(1492120800000)\/"
+    , "TRIP_TO": "\/Date(1492466400000)\/"
+    , "M_COST": 1160
+    , "F_COST": 1160
+    , "K_COST": 580
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1491948000000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "رحلة شم النسيم - الغردقة"
+    , "ID": 25
+    , "F_CODE": 4
+    , "F_NAME": "4 نجوم - فردى"
+    , "TRIP_FROM": "\/Date(1492120800000)\/"
+    , "TRIP_TO": "\/Date(1492466400000)\/"
+    , "M_COST": 1730
+    , "F_COST": 1730
+    , "K_COST": 865
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1491948000000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "رحلة شم النسيم - الغردقة"
+    , "ID": 26
+    , "F_CODE": 4
+    , "F_NAME": "4 نجوم - ثنائى"
+    , "TRIP_FROM": "\/Date(1492120800000)\/"
+    , "TRIP_TO": "\/Date(1492466400000)\/"
+    , "M_COST": 1265
+    , "F_COST": 1265
+    , "K_COST": 632.5
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1491948000000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "رحلة شم النسيم - الغردقة"
+    , "ID": 27
+    , "F_CODE": 4
+    , "F_NAME": "4 نجوم - ثلاثى"
+    , "TRIP_FROM": "\/Date(1492120800000)\/"
+    , "TRIP_TO": "\/Date(1492466400000)\/"
+    , "M_COST": 1175
+    , "F_COST": 1175
+    , "K_COST": 587.5
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1491948000000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "رحلة شم النسيم - شرم الشيخ"
+    , "ID": 32
+    , "F_CODE": 5
+    , "F_NAME": "4 نجوم - ثنائى"
+    , "TRIP_FROM": "\/Date(1492120800000)\/"
+    , "TRIP_TO": "\/Date(1492466400000)\/"
+    , "M_COST": 1205
+    , "F_COST": 1205
+    , "K_COST": 602.5
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1491948000000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "رحلة شم النسيم - شرم الشيخ"
+    , "ID": 31
+    , "F_CODE": 5
+    , "F_NAME": "4 نجوم - فردى"
+    , "TRIP_FROM": "\/Date(1492120800000)\/"
+    , "TRIP_TO": "\/Date(1492466400000)\/"
+    , "M_COST": 1670
+    , "F_COST": 1670
+    , "K_COST": 835
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1491948000000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "رحلة شم النسيم - شرم الشيخ"
+    , "ID": 36
+    , "F_CODE": 5
+    , "F_NAME": "3 نجوم - ثلاثى"
+    , "TRIP_FROM": "\/Date(1492120800000)\/"
+    , "TRIP_TO": "\/Date(1492466400000)\/"
+    , "M_COST": 735
+    , "F_COST": 735
+    , "K_COST": 367.5
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1491948000000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "رحلة شم النسيم - شرم الشيخ"
+    , "ID": 35
+    , "F_CODE": 5
+    , "F_NAME": "3 نجوم - ثنائى"
+    , "TRIP_FROM": "\/Date(1492120800000)\/"
+    , "TRIP_TO": "\/Date(1492466400000)\/"
+    , "M_COST": 765
+    , "F_COST": 765
+    , "K_COST": 382.5
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1491948000000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "رحلة شم النسيم - شرم الشيخ"
+    , "ID": 34
+    , "F_CODE": 5
+    , "F_NAME": "3 نجوم - فردى"
+    , "TRIP_FROM": "\/Date(1492120800000)\/"
+    , "TRIP_TO": "\/Date(1492466400000)\/"
+    , "M_COST": 1065
+    , "F_COST": 1065
+    , "K_COST": 532.5
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1491948000000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "رحلة شم النسيم - شرم الشيخ"
+    , "ID": 33
+    , "F_CODE": 5
+    , "F_NAME": "4 نجوم - ثلاثى"
+    , "TRIP_FROM": "\/Date(1492120800000)\/"
+    , "TRIP_TO": "\/Date(1492466400000)\/"
+    , "M_COST": 1145
+    , "F_COST": 1145
+    , "K_COST": 572.5
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1491948000000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "عمرة شعبان - برى"
+    , "ID": 1
+    , "F_CODE": 1
+    , "F_NAME": " ثنائى (دار الايمان)"
+    , "TRIP_FROM": "\/Date(1494280800000)\/"
+    , "TRIP_TO": "\/Date(1495058400000)\/"
+    , "M_COST": 7700
+    , "F_COST": 7700
+    , "K_COST": 4000
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1493503200000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "عمرة شعبان - برى"
+    , "ID": 2
+    , "F_CODE": 1
+    , "F_NAME": "ثلاثى (دار الايمان)"
+    , "TRIP_FROM": "\/Date(1494280800000)\/"
+    , "TRIP_TO": "\/Date(1495058400000)\/"
+    , "M_COST": 6900
+    , "F_COST": 6900
+    , "K_COST": 4000
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1493503200000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "عمرة شعبان - برى"
+    , "ID": 3
+    , "F_CODE": 1
+    , "F_NAME": "رباعى (دار الايمان)"
+    , "TRIP_FROM": "\/Date(1494280800000)\/"
+    , "TRIP_TO": "\/Date(1495058400000)\/"
+    , "M_COST": 6300
+    , "F_COST": 6300
+    , "K_COST": 4000
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1493503200000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "عمرة شعبان - برى"
+    , "ID": 4
+    , "F_CODE": 1
+    , "F_NAME": "ثنائى (مجموعة الاصيل)"
+    , "TRIP_FROM": "\/Date(1494280800000)\/"
+    , "TRIP_TO": "\/Date(1495058400000)\/"
+    , "M_COST": 6200
+    , "F_COST": 6200
+    , "K_COST": 4000
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1497391200000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "عمرة شعبان - برى"
+    , "ID": 5
+    , "F_CODE": 1
+    , "F_NAME": "ثلاثى (مجموعة الاصيل)"
+    , "TRIP_FROM": "\/Date(1494280800000)\/"
+    , "TRIP_TO": "\/Date(1495058400000)\/"
+    , "M_COST": 5500
+    , "F_COST": 5500
+    , "K_COST": 4000
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1493503200000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "عمرة شعبان - برى"
+    , "ID": 6
+    , "F_CODE": 1
+    , "F_NAME": "رباعى (مجموعة الاصيل)"
+    , "TRIP_FROM": "\/Date(1494280800000)\/"
+    , "TRIP_TO": "\/Date(1495058400000)\/"
+    , "M_COST": 5200
+    , "F_COST": 5200
+    , "K_COST": 4000
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1494021600000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "عمرة شعبان - طيران اقتصادى"
+    , "ID": 8
+    , "F_CODE": 2
+    , "F_NAME": "اقتصادى ثنائى 2/5"
+    , "TRIP_FROM": "\/Date(1493676000000)\/"
+    , "TRIP_TO": "\/Date(1494453600000)\/"
+    , "M_COST": 8690
+    , "F_COST": 8690
+    , "K_COST": 4000
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1492207200000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "عمرة شعبان - طيران اقتصادى"
+    , "ID": 8
+    , "F_CODE": 2
+    , "F_NAME": "اقتصادى ثنائى 7/5"
+    , "TRIP_FROM": "\/Date(1494108000000)\/"
+    , "TRIP_TO": "\/Date(1494885600000)\/"
+    , "M_COST": 8690
+    , "F_COST": 8690
+    , "K_COST": 4000
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1492639200000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "عمرة شعبان - طيران اقتصادى"
+    , "ID": 9
+    , "F_CODE": 2
+    , "F_NAME": "اقتصادى ثنائى 10/5"
+    , "TRIP_FROM": "\/Date(1494367200000)\/"
+    , "TRIP_TO": "\/Date(1495144800000)\/"
+    , "M_COST": 8690
+    , "F_COST": 8690
+    , "K_COST": 4000
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1493071200000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "عمرة شعبان - طيران اقتصادى"
+    , "ID": 10
+    , "F_CODE": 2
+    , "F_NAME": "اقتصادى ثلاثى 2/5"
+    , "TRIP_FROM": "\/Date(1493676000000)\/"
+    , "TRIP_TO": "\/Date(1494453600000)\/"
+    , "M_COST": 8090
+    , "F_COST": 8090
+    , "K_COST": 4000
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1492207200000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "عمرة شعبان - طيران اقتصادى"
+    , "ID": 11
+    , "F_CODE": 2
+    , "F_NAME": "اقتصادى ثلاثى 7/5"
+    , "TRIP_FROM": "\/Date(1494108000000)\/"
+    , "TRIP_TO": "\/Date(1494885600000)\/"
+    , "M_COST": 8090
+    , "F_COST": 8090
+    , "K_COST": 4000
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1492639200000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "عمرة شعبان - طيران اقتصادى"
+    , "ID": 12
+    , "F_CODE": 2
+    , "F_NAME": "اقتصادى ثلاثى 10/5"
+    , "TRIP_FROM": "\/Date(1494367200000)\/"
+    , "TRIP_TO": "\/Date(1495144800000)\/"
+    , "M_COST": 8090
+    , "F_COST": 8090
+    , "K_COST": 4000
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1493071200000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "عمرة شعبان - طيران اقتصادى"
+    , "ID": 15
+    , "F_CODE": 2
+    , "F_NAME": "اقتصادى رباعى 2/5"
+    , "TRIP_FROM": "\/Date(1493676000000)\/"
+    , "TRIP_TO": "\/Date(1494453600000)\/"
+    , "M_COST": 7490
+    , "F_COST": 7490
+    , "K_COST": 4000
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1492207200000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "عمرة شعبان - طيران اقتصادى"
+    , "ID": 14
+    , "F_CODE": 2
+    , "F_NAME": "اقتصادى رباعى 7/5"
+    , "TRIP_FROM": "\/Date(1494108000000)\/"
+    , "TRIP_TO": "\/Date(1494885600000)\/"
+    , "M_COST": 7490
+    , "F_COST": 7490
+    , "K_COST": 4000
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1492639200000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "عمرة شعبان - طيران اقتصادى"
+    , "ID": 15
+    , "F_CODE": 2
+    , "F_NAME": "اقتصادى رباعى 10/5"
+    , "TRIP_FROM": "\/Date(1494367200000)\/"
+    , "TRIP_TO": "\/Date(1495144800000)\/"
+    , "M_COST": 7490
+    , "F_COST": 7490
+    , "K_COST": 4000
+    , "NO_PERSON": 0
+    , "START_DATE": "\/Date(1490997600000)\/"
+    , "END_DATE": "\/Date(1493071200000)\/"
+    , "F_STAMP": 5
+    , "F_EDARYA": 50
+}, {
+    "TRIPNAME": "مرسى مطروح - فندوق الليدو"
+    , "ID": 37
+    , "F_CODE": 6
+    , "F_NAME": "الفوج الأول"
+    , "TRIP_FROM": "\/Date(1501538400000)\/"
+    , "TRIP_TO": "\/Date(1501884000000)\/"
+    , "M_COST": 950
+    , "F_COST": 990
+    , "K_COST": 0
+    , "NO_PERSON": 46
+    , "START_DATE": "\/Date(1495490400000)\/"
+    , "END_DATE": "\/Date(1501365600000)\/"
+    , "F_STAMP": 0
+    , "F_EDARYA": 0
+}, {
+    "TRIPNAME": "مرسى مطروح - فندوق الليدو"
+    , "ID": 38
+    , "F_CODE": 6
+    , "F_NAME": "الفوج الثانى"
+    , "TRIP_FROM": "\/Date(1501884000000)\/"
+    , "TRIP_TO": "\/Date(1502229600000)\/"
+    , "M_COST": 950
+    , "F_COST": 990
+    , "K_COST": 0
+    , "NO_PERSON": 46
+    , "START_DATE": "\/Date(1495490400000)\/"
+    , "END_DATE": "\/Date(1501797600000)\/"
+    , "F_STAMP": 0
+    , "F_EDARYA": 0
+}, {
+    "TRIPNAME": "مرسى مطروح - فندوق الليدو"
+    , "ID": 39
+    , "F_CODE": 6
+    , "F_NAME": "الفوج الثالث"
+    , "TRIP_FROM": "\/Date(1502229600000)\/"
+    , "TRIP_TO": "\/Date(1502575200000)\/"
+    , "M_COST": 950
+    , "F_COST": 990
+    , "K_COST": 0
+    , "NO_PERSON": 46
+    , "START_DATE": "\/Date(1495490400000)\/"
+    , "END_DATE": "\/Date(1502143200000)\/"
+    , "F_STAMP": 0
+    , "F_EDARYA": 0
+}]
